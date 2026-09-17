@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Bhoomika L S 👋
 
-<!--
-**Bhoomikals20/Bhoomikals20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Final Year BE IT Student | Python & Flask Developer | AI Enthusiast
 
-Here are some ideas to get you started:
+I'm a final-year Computer Science student passionate about building AI-powered web applications and backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+* Python
+* Flask
+* MySQL
+* JavaScript
+* HTML
+* CSS
+* Git & GitHub
+
+## Featured Project
+
+### LegalLens AI
+
+AI-powered legal document analyzer featuring OCR, clause detection, document summaries, and risk analysis.
+
+## Certifications
+
+* AWS Machine Learning Foundations
+* AWS Generative AI Foundations
+* AWS Cloud Foundations
+* Tata Data Analytics & GenAI (Forage)
+* HackerRank SQL Basics
+
+## Currently Learning
+
+* Python for Placements
+* Data Structures & Algorithms
+* Backend Development
+* AI/ML
+
+## Connect with me
+
+* LinkedIn: linkedin.com/in/bhoomikals20
+* Gmail: bhoomikals71@gmail.com
